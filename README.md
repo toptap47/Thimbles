@@ -1,7 +1,7 @@
 Thimbles
 ========
 
-Thimbles game is a chrome extension game source code.
+Thimbles game
+Hahahhaha
 
-![alt tag](https://raw.githubusercontent.com/yarova/Thimbles/master/for%20chrome/screen1.png)
-
+https://raw.githubusercontent.com/yarova/Thimbles/master/for%20chrome/screen1.png
